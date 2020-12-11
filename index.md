@@ -1,12 +1,12 @@
 ## À la recherche de la récursivité
-![Recherche](https://www.instagram.com/p/CIbHq3hBDDi/)
+![Recherche](https://miracle.nu/com/wp-content/uploads/2020/12/a-la-recherche-de-la-recursivite-v9.png)
 L'émission qui n'en finit pas de commencer
 
 ### Un podcast enregistré en live ou un live enregistré en podcast?
 
 Personne ne sait mais on garde la trace du projet à mesure qu'il évolue.
 
-```C'est à dire?
+## C'est à dire?
 On ne sait pas
 
 # La récursivité
