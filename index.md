@@ -17,7 +17,7 @@ C'est la méthode pour trouver la récursivité
 Il n'y en a pas, il paraît que ça fait fuir le public
 
 # Épisode 2 : 
-[Zumzum] (https://miracle.nu/com/wp-content/uploads/2020/12/zoom-zoom-zoom-zen-v10.png)
+![Zumzum] (https://miracle.nu/com/wp-content/uploads/2020/12/zoom-zoom-zoom-zen-v10.png)
 
 - Ça aussi
 - Et ça aussi
